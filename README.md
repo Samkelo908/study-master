@@ -4,7 +4,7 @@
 - [Your Full Name] - [Student Number]
 - [Partner's Full Name] - [Student Number]
 
-**Team Name:** [Your Team Name]
+
 
 **Project Duration:** July 28 - August 1, 2025
 
