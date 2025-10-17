@@ -1,8 +1,6 @@
 # 🎓 Study Master - API Fusion Project
 
-**Team Members:**
-- [Your Full Name] - [Student Number]
-- [Partner's Full Name] - [Student Number]
+
 
 
 
